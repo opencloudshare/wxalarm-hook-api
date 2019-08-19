@@ -1,0 +1,210 @@
+2019/08/16 00:13:15 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":32,"ruleName":"萧山生产 con1  /var/lib/docker usage alert","ruleUrl":"http://localhost:3000/d/ueTD0bMiz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=26\u0026orgId=1","state":"ok","title":"[OK] 萧山生产 con1  /var/lib/docker usage alert"}
+2019/08/16 00:13:15 [I] [alarm.go:113] get access token ok
+2019/08/16 00:13:15 [I] [alarm.go:113] GXtnMJInSiSfQ_RTHipj5eOJAyuoegvw7TRolH6W5zQEnNO-YGCYl3wp9xwdsYTHX-i_mBFJV2h_7X8ruOprfnC0iSal6JHreIBjwIBpKNpYK0ce2N5dlglqBxNDT9mID4kYwbx1n4FauFvrL-DQFeX3ezxyZ-gvQnS3Xn9AxyoH2iArKyZTuVXYI7c-NlssyyXyI5Mi300EDxEDfneJzg
+2019/08/16 00:13:15 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 00:13:15 [D] [server.go:2568] | 218.205.89.119|[42m 200 [0m| 472.324339ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 00:35:05 [I] [asm_amd64.s:514] get:
+2019/08/16 00:35:05 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565886905_6_c7a85e60f84b9805edd2c563700ce7b4], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 00:35:05 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 242.577355ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 02:06:53 [D] [server.go:2568] |  185.244.25.77|[43m 404 [0m|    281.048µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 02:27:55 [I] [asm_amd64.s:514] get:
+2019/08/16 02:27:55 [I] [alarm.go:58] get access token ok
+2019/08/16 02:27:55 [I] [alarm.go:58] Gywiywvxloi4nSHPaUi7pHvgaskqvqc2MGR4rXaWGryPGVY9KN8qpF8fmzA3I62_VCf_zxk24SD3e_Kc78wWxR4gENiYAsXlesakg0S8EXI_hM_atNiUX6HbKgMESZjUdYlY2bB7oFJMtK1Nmf-I6mI7cFL0q-oOYOstAm2DTBcGo2g92GdFdaPIU2TuuF2fu2HKYjgbKD4zpqYR1796kw
+2019/08/16 02:27:56 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565893676_2_bd5b8978841ccddb2e369aff29bc1895], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 02:27:56 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 440.958473ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 02:36:14 [I] [asm_amd64.s:514] get:
+2019/08/16 02:36:14 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565894174_4_d0a4c982decd1c4f2190a1a72e08d9f7], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 02:36:14 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  287.61701ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 02:55:37 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    353.534µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 03:15:37 [I] [asm_amd64.s:514] get:
+2019/08/16 03:15:37 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565896537_1_733ec473acd46e1c42855bed6cd54773], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 03:15:37 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 258.089106ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 03:33:14 [I] [asm_amd64.s:514] get:
+2019/08/16 03:33:14 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565897594_5_b44679b30bae9edf02bd499855db19d9], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 03:33:14 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 222.445973ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 03:48:39 [I] [asm_amd64.s:514] get:
+2019/08/16 03:48:39 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565898519_4_32f9603ed787b3a06e67b884e0178667], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 03:48:39 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 335.518244ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 03:58:28 [D] [server.go:2568] |180.101.249.129|[43m 404 [0m|    349.795µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 05:35:10 [I] [asm_amd64.s:514] get:
+2019/08/16 05:35:10 [I] [alarm.go:58] get access token ok
+2019/08/16 05:35:10 [I] [alarm.go:58] 55Nq23PQSnDTqfxiC243rco9Gbtv9HkXhRz_fpKkYndTZybMUkAHfKD7byV8PLa9OwoAyGZiCvHdv9Ua3VrzqfYRrDP_tny4sBmGoq6BsxUFf8W3tZ_s5pywDdha9HQZykDJat5K5dcKtk6V3PdwwkgWabObwFpfWpxLlEk66p0brKfNPxbkfn00_UH7rxMX0K-O_nlqV0GLsA1HTfWUuw
+2019/08/16 05:35:11 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565904911_7_9a7a152d7f1397e833b98e0336539ae3], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 05:35:11 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 488.230109ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 05:58:43 [D] [server.go:2568] |  77.247.110.53|[43m 404 [0m|    327.229µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 05:59:44 [I] [asm_amd64.s:514] get:
+2019/08/16 05:59:44 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565906384_5_f7e9e126416b3344f7a31103ff053f0f], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 05:59:44 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 243.618153ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 07:05:32 [I] [asm_amd64.s:514] get:
+2019/08/16 07:05:32 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565910332_6_b6fb653b3c3f4a00ea329a0ead7243ae], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 07:05:32 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  225.60531ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 07:32:44 [I] [asm_amd64.s:514] get:
+2019/08/16 07:32:44 [I] [alarm.go:58] get access token ok
+2019/08/16 07:32:44 [I] [alarm.go:58] 55Nq23PQSnDTqfxiC243rco9Gbtv9HkXhRz_fpKkYndTZybMUkAHfKD7byV8PLa9OwoAyGZiCvHdv9Ua3VrzqfYRrDP_tny4sBmGoq6BsxUFf8W3tZ_s5pywDdha9HQZykDJat5K5dcKtk6V3PdwwkgWabObwFpfWpxLlEk66p0brKfNPxbkfn00_UH7rxMX0K-O_nlqV0GLsA1HTfWUuw
+2019/08/16 07:32:44 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565911964_4_b815bea2bb748a328eece71c5d5d4d29], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 07:32:44 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 442.287693ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 07:52:04 [I] [asm_amd64.s:514] get:
+2019/08/16 07:52:04 [I] [asm_amd64.s:514] get:
+2019/08/16 07:52:04 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565913124_5_3cf03079d7e5574790d8f239260ad100], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 07:52:04 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 215.723707ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 07:52:04 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565913124_5_ffeb857bbcf8fd5159eee55e3c79b464], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 07:52:04 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  215.89045ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 09:12:22 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    378.915µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 09:59:14 [I] [asm_amd64.s:514] get:
+2019/08/16 09:59:14 [I] [alarm.go:58] get access token ok
+2019/08/16 09:59:14 [I] [alarm.go:58] 1Mfc6eyzr1kqBo4sl7k9_0PJBwjvyqAi-_nz4_oA38LlyHLqxj3MQORbL1iR4rg9SGagvFxZlRQ-BukDiClzRBUhLydMOcMI3YVE-Jx9yNjqjjqehSKUCeuUAP82i9bCHo_n8F_4MsmPT1ZOrfakDVqJaV7xDekfDI-xP-jhQdKHM5jhSftYEdq0p3cl5H_q1UBM-W_2MHCSWZkg7P_zgQ
+2019/08/16 09:59:14 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565920754_7_2e72e6d86fd76980f87f6a2f9c873812], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 09:59:14 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  482.12311ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 10:11:00 [I] [asm_amd64.s:514] get:
+2019/08/16 10:11:00 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565921460_6_88d698cb1362f78ad5b1a44811dd1e7a], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 10:11:00 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 242.147488ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 10:31:25 [I] [asm_amd64.s:514] get:
+2019/08/16 10:31:25 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565922685_1_6ba08f2f0ea33c7d18356b08e95186e0], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 10:31:25 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 264.456069ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 10:39:26 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    333.847µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 12:01:00 [I] [asm_amd64.s:514] {"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/","state":"alerting","title":"[Alerting] Test notification"}
+2019/08/16 12:01:00 [I] [alarm.go:138] get access token ok
+2019/08/16 12:01:00 [I] [alarm.go:138] AErMAZ9BsqSMUjJPAavfsb1bj3l0-iNcE1xv9C7IgTbWz8pDdCWUy4CNfzKnJVbgXxgWIbLPBbY3taHOX8ar8ScQMfFgWhWe9d1PediKJyFvk8Y0OPMcVGzqA9WrZHOZOsGe5HxA8qQsrV_1yCOZkLbENlX2mA62yR6ov29UgXfchhDSFZiJvYYYpSBCDCXmEBaDZFCL9MkuMnA7JMxE0w
+2019/08/16 12:01:01 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 12:01:01 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 537.515317ms|   match|[43m PUT     [0m /v1/alarm/cdn   r:/v1/alarm/cdn
+2019/08/16 13:11:27 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|     361.44µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:11:27 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|     245.09µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:11:31 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|     321.38µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:11:31 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    321.259µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:12:44 [I] [asm_amd64.s:514] get:
+2019/08/16 13:12:44 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565932364_1_45b22322de0035fb90345f0e18bc5782], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 13:12:44 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 235.091788ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 13:14:32 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    213.653µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:14:32 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|  46.881307ms| nomatch|[0m CONNECT [0m    
+2019/08/16 13:14:32 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    519.007µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:15:13 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    331.447µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:15:18 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    267.685µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:15:18 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    298.612µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:15:18 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    240.935µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:17:41 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    299.657µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:17:41 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    240.582µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:17:46 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    244.509µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:17:46 [D] [server.go:2568] |122.228.208.113|[43m 404 [0m|    323.025µs| nomatch|[0m CONNECT [0m    
+2019/08/16 13:23:00 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    374.131µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 13:44:36 [I] [asm_amd64.s:514] get:
+2019/08/16 13:44:36 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565934276_3_b10ba6b84a3c5c02044d8faba7b78e7f], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 13:44:36 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 232.033833ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 14:22:26 [I] [asm_amd64.s:514] get:
+2019/08/16 14:22:26 [I] [alarm.go:58] get access token ok
+2019/08/16 14:22:26 [I] [alarm.go:58] FrgbBHZOgw3eVajlXaiQfYScPWjTp3pvudUZxI0Mhq63kxhkPkyIj_BjsO_HvrPd9SM4cqNnkXwyukWJfLdjJlwOgS6enxDzgNIC-ZiEifCLSTDYwuOTr8okt4y_F1ZvWVC7Elb-Kw4BwhYXrd6Y6dEl84YzkoXSmZbz_npXokXJW4O0CdyFEyCGuHMBnnXiQm5qpbryOe9t-IQKr8UAeQ
+2019/08/16 14:22:27 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565936547_2_e537cc21f8f55cdc33a1640e864eae86], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 14:22:27 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 435.912032ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 14:35:25 [I] [asm_amd64.s:514] get:
+2019/08/16 14:35:25 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565937325_1_219a682901505df394a8dc7241cc301a], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 14:35:25 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 208.335153ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":81,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vwcB0Bzmk/ceph-cluster-yan-xi?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"ok","title":"[OK] 广西cdn health status alert"}
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":81,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vwcB0Bzmk/ceph-cluster-yan-xi?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"ok","title":"[OK] 广西cdn health status alert"}
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 14:40:32 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 269.273656ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 14:40:32 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  288.45776ms|   match|[43m PUT     [0m /v1/alarm/cdn   r:/v1/alarm/cdn
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":27,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vcB0Bzmk/ceph-cluster-yan-xi?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"ok","title":"[OK] 广西cdn health status alert"}
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 14:40:32 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 233.872267ms|   match|[43m PUT     [0m /v1/alarm/cdn   r:/v1/alarm/cdn
+2019/08/16 14:40:32 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":27,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vcB0Bzmk/ceph-cluster-yan-xi?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"ok","title":"[OK] 广西cdn health status alert"}
+2019/08/16 14:40:33 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 14:40:33 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 268.442422ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 14:40:42 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":6,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vwcB0Bzmk/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"ok","title":"[OK] 广西cdn health status alert"}
+2019/08/16 14:40:42 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 14:40:42 [D] [server.go:2568] |   39.135.34.94|[42m 200 [0m| 266.640295ms|   match|[43m PUT     [0m /v1/alarm/cdn   r:/v1/alarm/cdn
+2019/08/16 15:03:21 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    354.701µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 15:18:52 [I] [asm_amd64.s:514] evalMatches=%5B%7B%22metric%22%3A%C2%A0%22High%C2%A0value%22%2C%C2%A0%22value%22%3A%C2%A0100%2C%C2%A0%22tags%22%3A%C2%A0None%7D%2C%C2%A0%7B%22metric%22%3A%C2%A0%22Higher%C2%A0Value%22%2C%C2%A0%22value%22%3A%C2%A0200%2C%C2%A0%22tags%22%3A%C2%A0None%7D%5D&ruleId=0&imageUrl=http%3A%2F%2Fgrafana.org%2Fassets%2Fimg%2Fblog%2Fmixed_styles.png&title=%5BAlerting%5D%C2%A0Test%C2%A0notification&state=alerting&ruleUrl=http%3A%2F%2Flocalhost%3A3000%2F&ruleName=Test%C2%A0notification&message=ha%20ha%20ha%20ha%20%21%21%21%21%21%21%21%21%21%21
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:109
+2019/08/16 15:18:52 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2019/08/16 15:18:53 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2019/08/16 15:31:40 [I] [asm_amd64.s:514] get:
+2019/08/16 15:31:40 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565940700_2_4272d7ba61a81cd5f80ccb66756c119c], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 15:31:40 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|   222.0254ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 15:39:33 [I] [asm_amd64.s:514] evalMatches=%5B%7B%22metric%22%3A%C2%A0%22High%C2%A0value%22%2C%C2%A0%22value%22%3A%C2%A0100%2C%C2%A0%22tags%22%3A%C2%A0None%7D%2C%C2%A0%7B%22metric%22%3A%C2%A0%22Higher%C2%A0Value%22%2C%C2%A0%22value%22%3A%C2%A0200%2C%C2%A0%22tags%22%3A%C2%A0None%7D%5D&ruleId=0&imageUrl=http%3A%2F%2Fgrafana.org%2Fassets%2Fimg%2Fblog%2Fmixed_styles.png&title=%5BAlerting%5D%C2%A0Test%C2%A0notification&state=alerting&ruleUrl=http%3A%2F%2Flocalhost%3A3000%2F&ruleName=Test%C2%A0notification&message=ha%20ha%20ha%20ha%20%21%21%21%21%21%21%21%21%21%21
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:109
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2019/08/16 15:39:33 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2019/08/16 15:51:46 [I] [asm_amd64.s:514] {"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"imageUrl":"http://grafana.org/assets/img/blog/mixed_styles.png","message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/","state":"alerting","title":"[Alerting] Test notification"}
+2019/08/16 15:51:46 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 15:51:46 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 254.921623ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 16:21:21 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    403.179µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 16:51:51 [I] [asm_amd64.s:514] get:
+2019/08/16 16:51:51 [I] [alarm.go:58] get access token ok
+2019/08/16 16:51:51 [I] [alarm.go:58] Z86eHjTeFmebuGgquq5f3gch5LS_DXPbRtJ8wf4jpbCaPGHdfy2uGa8McWL957NtBVLzz9v36iIhk2XXGSgjD1dqKNnX_f7zq6FYobZBsPYupiLqf2QfJ5ykjAooSYkK4dF34AczsTKjjJMB34WCX4a3nGVadxefQfKYcvsqslq11ttac37XWazkYT7P5EBIRb9VTjBIZqLkHYZDqZWllA
+2019/08/16 16:51:52 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565945512_2_897612f1f56485698a5cd3de25799dcd], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 16:51:52 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 487.881206ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 16:58:20 [I] [asm_amd64.s:514] get:
+2019/08/16 16:58:20 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565945900_5_75cbe5ea25b540e22019fa785c080195], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 16:58:20 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 245.566207ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 17:07:07 [I] [asm_amd64.s:514] {"state": "alerting", "evalMatches": [{"metric": "High\u00a0value", "value": 100, "tags": ""}, {"metric": "Higher\u00a0Value", "value": 200, "tags": ""}], "ruleId": 0, "imageUrl": "http://grafana.org/assets/img/blog/mixed_styles.png", "title": "[Alerting]\u00a0Test\u00a0notification", "message": "ha ha ha ha !!!!!!!!!!", "ruleUrl": "http://localhost:3000/", "ruleName": "Test\u00a0notification"}
+2019/08/16 17:07:07 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:07:07 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 291.389717ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 17:07:57 [I] [asm_amd64.s:514] {"state": "alerting", "evalMatches": [{"metric": "High\u00a0value", "value": 100, "tags": ""}, {"metric": "Higher\u00a0Value", "value": 200, "tags": ""}], "ruleId": 0, "imageUrl": "http://grafana.org/assets/img/blog/mixed_styles.png", "title": "[Alerting]\u00a0Test\u00a0notification", "message": "ha ha ha ha !!!!!!!!!!", "ruleUrl": "http://localhost:3000/", "ruleName": "hello world"}
+2019/08/16 17:07:57 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:07:57 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 247.035639ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 17:08:47 [I] [asm_amd64.s:514] {"state": "alerting", "evalMatches": [{"metric": "High\u00a0value", "value": 100, "tags": ""}, {"metric": "Higher\u00a0Value", "value": 200, "tags": ""}], "ruleId": 0, "imageUrl": "http://grafana.org/assets/img/blog/mixed_styles.png", "title": "[Alerting]\u00a0Hello World", "message": "ha ha ha ha !!!!!!!!!!", "ruleUrl": "http://localhost:3000/", "ruleName": "hello world"}
+2019/08/16 17:08:47 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:08:47 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 282.202382ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 17:08:48 [I] [asm_amd64.s:514] {"state": "alerting", "evalMatches": [{"metric": "High\u00a0value", "value": 100, "tags": ""}, {"metric": "Higher\u00a0Value", "value": 200, "tags": ""}], "ruleId": 0, "imageUrl": "http://grafana.org/assets/img/blog/mixed_styles.png", "title": "[Alerting]\u00a0Hello World", "message": "ha ha ha ha !!!!!!!!!!", "ruleUrl": "http://localhost:3000/", "ruleName": "hello world"}
+2019/08/16 17:08:49 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:08:49 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 231.809252ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 17:47:08 [I] [asm_amd64.s:514] {"evalMatches":[{"value":177.77777777777777,"metric":"{}","tags":{}}],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥对象存储网关告警（page 200） alert"}
+2019/08/16 17:47:08 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:47:08 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 246.215349ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 17:52:05 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"ok","title":"[OK] 石桥对象存储网关告警（page 200） alert"}
+2019/08/16 17:52:05 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 17:52:05 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 277.115135ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 18:18:00 [D] [server.go:2568] | 35.222.170.246|[43m 404 [0m|    266.805µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 18:18:13 [D] [server.go:2568] | 35.222.170.246|[43m 404 [0m|    341.577µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 18:36:48 [I] [asm_amd64.s:514] get:
+2019/08/16 18:36:48 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565951808_6_9e0ea4d684cad284c62a5a2827c5d567], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 18:36:48 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 197.108536ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 18:43:28 [D] [server.go:2568] |180.153.182.244|[43m 404 [0m|    315.406µs| nomatch|[44m GET     [0m /  
+2019/08/16 19:01:51 [I] [asm_amd64.s:514] get:
+2019/08/16 19:01:51 [I] [alarm.go:58] get access token ok
+2019/08/16 19:01:51 [I] [alarm.go:58] GOo-CdP8FFvmnoq8z2XVDdiJDy2SRvjJJi5S2sZadfuWJlZ8rX31PlMyUz19GNlsPWguxZ6XaEbh_f5mPWO3SGkM4HcCvNDwelt-j8s65xZWwktRL4E0kjpuxE_MtSYv-jktr4JscmI4wGTYEzlTBEVeMK-9_AiFXW65gl7IoFBSmclo5JBvLvAC1o23nb9CR69_yi2tDZuD4xBS-socyg
+2019/08/16 19:01:52 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565953312_1_53192bf683412cb9272022cae06fb0e9], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 19:01:52 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  454.93238ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 19:23:10 [I] [asm_amd64.s:514] get:
+2019/08/16 19:23:10 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565954590_7_e8da78ca045453190db460d53fe7c10a], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 19:23:10 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  241.29162ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 19:24:23 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|    271.451µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 20:21:23 [D] [server.go:2568] | 134.209.14.254|[43m 404 [0m|      342.1µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/16 21:50:08 [I] [asm_amd64.s:514] get:
+2019/08/16 21:50:08 [I] [alarm.go:58] get access token ok
+2019/08/16 21:50:08 [I] [alarm.go:58] EqY7Bc20wFf6BWLMbwlh4ygNmzW3qQ_thpR88WaOMTLfe1srPElaDZYFWPwqlhe82GUxYJxgmgriPk7iCt7UDFgVzsRmZ5SOrv7ZR1srwxo_0ipJYE8Vhykd7vpwnJZ1OjFPhp9vx39aewEXoh770SF_WWP6VH_e5LYbSbRJhW_VOlaHVnqPe05R6gR_DVq5z71UR9m-4xrY7tlodCN2jA
+2019/08/16 21:50:08 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565963408_4_2fea852b4a759615ea8c0a7b8d89ae7f], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 21:50:08 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 467.872096ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 22:01:02 [D] [server.go:2568] |  196.52.43.110|[43m 404 [0m|    331.251µs| nomatch|[44m GET     [0m /  
+2019/08/16 22:23:22 [I] [asm_amd64.s:514] {"evalMatches":[{"value":334958844271,"metric":"Write","tags":{"__name__":"write_bytes_sec","alias":"ceph-exporter-hw1","instance":"172.26.105.14:5006","job":"ceph-exporter-hw1"}}],"message":"omg","ruleId":17,"ruleName":"iobandwidth_alert hw1","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=42\u0026orgId=1","state":"alerting","title":"[Alerting] iobandwidth_alert hw1"}
+2019/08/16 22:23:23 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 22:23:23 [D] [server.go:2568] |  112.13.96.187|[42m 200 [0m| 260.712378ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 22:24:28 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"omg","ruleId":17,"ruleName":"iobandwidth_alert hw1","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=42\u0026orgId=1","state":"ok","title":"[OK] iobandwidth_alert hw1"}
+2019/08/16 22:24:29 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/16 22:24:29 [D] [server.go:2568] |  112.13.96.187|[42m 200 [0m| 288.971605ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/16 23:03:21 [I] [asm_amd64.s:514] get:
+2019/08/16 23:03:21 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565967801_1_33affd26707da0a4f65dd47eb848fc51], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 23:03:21 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 233.949172ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/16 23:18:09 [I] [asm_amd64.s:514] get:
+2019/08/16 23:18:10 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565968690_1_dda40f73a687006926089ea5a51e3e79], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/16 23:18:10 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 237.627484ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin

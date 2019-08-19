@@ -1,0 +1,158 @@
+swagger: "2.0"
+info:
+  title: beego Test API
+  description: beego has a very cool tools to autogenerate documents for your API
+  version: 1.0.0
+  termsOfService: http://beego.me/
+  contact:
+    email: astaxie@gmail.com
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+basePath: /v1
+paths:
+  /alarm/admin:
+    post:
+      tags:
+      - alarm
+      description: create a request to send Admin alarm via POST
+      operationId: AlarmController.CreateAlarmAdmin_post
+      parameters:
+      - in: formData
+        name: content
+        description: alarm contents
+        required: true
+        type: string
+      responses:
+        "200":
+          description: send alarm success
+        "403":
+          description: no content
+  /alarm/cdn:
+    put:
+      tags:
+      - alarm
+      description: alarm for CDN msg specified
+      operationId: AlarmController.CreateAlarmCDN_put
+      parameters:
+      - in: body
+        name: reqbody
+        description: body for user content.please change key to lower case
+        required: true
+        schema:
+          $ref: '#/definitions/controllers.GrafanaReq'
+      responses:
+        "200":
+          description: accept  and send alarm success
+        "403":
+          description: error occurs
+  /alarm/event:
+    get:
+      tags:
+      - alarm
+      description: display all event
+      operationId: AlarmController.GetAllEvents
+      responses:
+        "200":
+          description: get all event success
+  /alarm/event/{eventid}:
+    get:
+      tags:
+      - alarm
+      description: confirm event
+      operationId: AlarmController.ConfirmSpecifiedEvent
+      parameters:
+      - in: path
+        name: eventid
+        description: eventid to confirm
+        required: true
+        type: string
+      responses:
+        "200":
+          description: confirm event success
+    delete:
+      tags:
+      - alarm
+      description: confirm event
+      operationId: AlarmController.DeleteSpecifiedEvent
+      parameters:
+      - in: path
+        name: eventid
+        description: eventid to confirm
+        required: true
+        type: string
+      responses:
+        "200":
+          description: confirm event success
+  /alarm/grafana:
+    put:
+      tags:
+      - alarm
+      description: alarm for grafana msg specified
+      operationId: AlarmController.CreateAlarm_put
+      parameters:
+      - in: body
+        name: reqbody
+        description: body for user content.please change key to lower case
+        required: true
+        schema:
+          $ref: '#/definitions/controllers.GrafanaReq'
+      responses:
+        "200":
+          description: accept  and send alarm success
+        "403":
+          description: error occurs
+  /alarm/wxmsg:
+    post:
+      tags:
+      - alarm
+      description: create a request to send alarm via POST
+      operationId: AlarmController.CreateAlarm_post
+      parameters:
+      - in: formData
+        name: content
+        description: alarm contents
+        required: true
+        type: string
+      responses:
+        "200":
+          description: send alarm success
+        "403":
+          description: no content
+  /alarm/wxmsg/{content}:
+    get:
+      tags:
+      - alarm
+      description: create a request to send alarm via GET
+      operationId: AlarmController.CreateAlarm_get
+      parameters:
+      - in: path
+        name: content
+        description: alarm contents
+        required: true
+        type: string
+      responses:
+        "200":
+          description: send alarm success
+        "403":
+          description: no content
+definitions:
+  controllers.GrafanaReq:
+    title: GrafanaReq
+    type: object
+    properties:
+      message:
+        type: string
+      ruleId:
+        type: integer
+        format: int64
+      ruleName:
+        type: string
+      state:
+        type: string
+      title:
+        type: string
+tags:
+- name: alarm
+  description: |
+    Operations about Alarm

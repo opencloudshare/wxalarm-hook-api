@@ -1,0 +1,129 @@
+2017/10/19 06:18:54 [I] [asm_amd64.s:514] {"evalMatches":[{"value":100,"metric":"High value","tags":null},{"value":200,"metric":"Higher Value","tags":null}],"message":"Someone is testing the alert notification within grafana.","ruleId":0,"ruleName":"Test notification","ruleUrl":"http://localhost:3000/","state":"alerting","title":"[Alerting] Test notification"}
+2017/10/19 06:18:55 [D] [server.go:2568] |  112.13.168.26|[42m 200 [0m| 656.710697ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2017/10/20 02:28:01 [I] [asm_amd64.s:514] {"evalMatches":[{"value":76,"metric":"osd in num","tags":{"__name__":"ceph_osds_in","alias":"ceph-exporter","cluster":"ceph","instance":"172.17.0.1:9128","job":"ceph_exporter"}}],"message":"ceph cluster error occured,please check soon","ruleId":1,"ruleName":"osd_in_num for alarm alert","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=35\u0026orgId=1","state":"alerting","title":"[Alerting] osd_in_num for alarm alert"}
+2017/10/20 02:28:02 [D] [server.go:2568] |  112.13.168.26|[42m 200 [0m| 792.408938ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2017/10/20 04:45:30 [D] [server.go:2568] |   123.59.54.62|[43m 404 [0m|    457.339µs| nomatch|[44m GET     [0m /  
+2017/10/20 05:39:47 [D] [server.go:2568] |   196.52.43.63|[43m 404 [0m|    253.774µs| nomatch|[44m GET     [0m /  
+2017/10/20 08:19:48 [D] [server.go:2568] |  180.163.8.254|[43m 404 [0m|    394.077µs| nomatch|[44m GET     [0m /  
+2017/10/20 08:45:26 [D] [server.go:2568] |      127.0.0.1|[43m 404 [0m|    301.689µs| nomatch|[45m HEAD    [0m /  
+2017/10/20 10:48:01 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"ceph cluster error occured,please check soon","ruleId":1,"ruleName":"osd_in_num for alarm alert","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=35\u0026orgId=1","state":"ok","title":"[OK] osd_in_num for alarm alert"}
+2017/10/20 10:48:02 [D] [server.go:2568] |  112.13.168.26|[42m 200 [0m| 879.854301ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2017/10/20 16:50:42 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 16:50:45 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 16:51:45 [I] [asm_amd64.s:514] {}233
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:98
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2017/10/20 16:51:45 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2017/10/20 16:53:57 [D] [server.go:2568] | 120.199.60.114|[47m 304 [0m|    139.834µs|   match|[44m GET     [0m /swagger/
+2017/10/20 16:53:58 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    224.104µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/10/20 16:53:58 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    148.782µs|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2017/10/20 16:54:12 [D] [server.go:2568] | 120.199.60.114|[47m 304 [0m|     59.368µs|   match|[44m GET     [0m /swagger/
+2017/10/20 16:54:13 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|     85.976µs|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2017/10/20 16:54:42 [I] [asm_amd64.s:514] {
+  "Message": "g",
+  "State": "gs",
+  "Title": "sg"
+}
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:98
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2017/10/20 16:54:42 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2017/10/20 16:59:46 [D] [server.go:2568] |  180.163.8.254|[43m 404 [0m|     362.27µs| nomatch|[44m GET     [0m /  
+2017/10/20 16:59:54 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 16:59:57 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:00:21 [I] [asm_amd64.s:514] {
+  "Message": "g",
+  "State": "gs",
+  "Title": "sg"
+}
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:100
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2017/10/20 17:00:21 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2017/10/20 17:02:38 [I] [asm_amd64.s:514] {
+  "Message": "g",
+  "State": "gs",
+  "Title": "sg"
+}
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:100
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2017/10/20 17:02:38 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2017/10/20 17:03:08 [I] [asm_amd64.s:514] {"evalMatches":[{"value":76,"metric":"osd in num","tags":{"__name__":"ceph_osds_in","alias":"ceph-exporter","cluster":"ceph","instance":"172.17.0.1:9128","job":"ceph_exporter"}}],"message":"ceph cluster error occured,please check soon","ruleId":1,"ruleName":"osd_in_num for alarm alert","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=35\u0026orgId=1","state":"alerting","title":"[Alerting] osd_in_num for alarm alert"}
+2017/10/20 17:03:09 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m| 1.680380713s|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2017/10/20 17:04:03 [D] [server.go:2568] | 120.199.60.114|[47m 304 [0m|     96.401µs|   match|[44m GET     [0m /swagger/
+2017/10/20 17:04:04 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    203.657µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/10/20 17:04:04 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    223.365µs|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2017/10/20 17:04:24 [I] [asm_amd64.s:514] {"Message": "string","State": "string","Title": "string"}
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] the request url is  /v1/alarm/grafana
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] Handler crashed with error interface conversion: interface {} is nil, not string
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/panic.go:489
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/iface.go:172
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /root/go/src/wxapiserver/controllers/alarm.go:100
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:514
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:434
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/reflect/value.go:302
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /root/go/src/github.com/astaxie/beego/router.go:815
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:2568
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/net/http/server.go:1825
+2017/10/20 17:04:24 [C] [asm_amd64.s:514] /usr/lib/golang/src/runtime/asm_amd64.s:2197
+2017/10/20 17:04:46 [I] [asm_amd64.s:514] {"message": "string","state": "string","title": "string"}
+2017/10/20 17:04:47 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|  727.66429ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2017/10/20 17:06:21 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:06:24 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:06:49 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:06:51 [D] [server.go:2568] | 120.199.60.114|[47m 304 [0m|    172.158µs|   match|[44m GET     [0m /swagger/
+2017/10/20 17:06:51 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    139.388µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/10/20 17:06:51 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|     96.501µs|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2017/10/20 17:06:52 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:07:06 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m| 728.909155ms|   match|[46m POST    [0m /v1/alarm/   r:/v1/alarm/
+2017/10/20 17:07:34 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|     44.298µs|   match|[44m GET     [0m /v1/alarm/abc22   r:/v1/alarm/:content
+2017/10/20 17:11:09 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:11:12 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:11:20 [D] [server.go:2568] | 120.199.60.114|[47m 304 [0m|    109.938µs|   match|[44m GET     [0m /swagger/
+2017/10/20 17:11:20 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|     184.79µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/10/20 17:11:20 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m|    165.613µs|   match|[44m GET     [0m /swagger/favicon-16x16.png
+2017/10/20 17:11:31 [D] [server.go:2568] | 120.199.60.114|[42m 200 [0m| 339.477122ms|   match|[44m GET     [0m /v1/alarm/222   r:/v1/alarm/:content
+2017/10/20 17:15:26 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:15:30 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:21:38 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:21:53 [I] [asm_amd64.s:2197] http server Running on http://:8088
+2017/10/20 17:21:55 [I] [asm_amd64.s:2197] http server Running on http://:8088

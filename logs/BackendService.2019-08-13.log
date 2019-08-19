@@ -1,0 +1,171 @@
+2019/08/13 00:14:11 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":32,"ruleName":"萧山生产 con1  /var/lib/docker usage alert","ruleUrl":"http://localhost:3000/d/ueTD0bMiz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=26\u0026orgId=1","state":"ok","title":"[OK] 萧山生产 con1  /var/lib/docker usage alert"}
+2019/08/13 00:14:11 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 00:14:11 [D] [server.go:2568] | 218.205.89.119|[42m 200 [0m| 274.003529ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 01:04:22 [D] [server.go:2568] |  185.244.25.77|[43m 404 [0m|    362.284µs| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/13 02:24:30 [I] [asm_amd64.s:514] get:
+2019/08/13 02:24:30 [I] [alarm.go:58] get access token ok
+2019/08/13 02:24:30 [I] [alarm.go:58] SNSzCNc96dkGWgueA7anGJXnawn_PbczVooUJAhGvZiCmK0OlkZqpeT84eLCxFFWgyYYl2fvDjLIZdxD-9BILgQydNQIVNddzLRpu-ADhwmbWcLaJ3GBwnFKwYpSZOHTkawxCzEyMmtflziqGYGBnz8qltOi3zreXAzsvJT4iURwAGLugfgK6RWxcka7GEpjChquYe1rfEN3vPToesfwpg
+2019/08/13 02:24:31 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565634271_5_8df46be340c1611342ea33e88485332b], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 02:24:31 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 492.553189ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 04:34:09 [I] [asm_amd64.s:514] get:
+2019/08/13 04:34:09 [I] [alarm.go:58] get access token ok
+2019/08/13 04:34:09 [I] [alarm.go:58] DA_1H4qBgE39giv4e2xClfeLpFLCybT77V3RVNWl0NNexoZiYQ3JYeDLPNg_VffvfSdhKMQ2EAGMl0NYH_6weZ0YU10d2ibZ5_BWsBv-TOctbaGdxHTGZi0OjRuSo9nGbE8Ws1Vi66k-TgOWyaMq1Cginqu_hobLjjoJ2JZOt3Wk9WwBvuDaOPlgEG60ZYqrSMxhTfcJaieE6FI_pLPqWA
+2019/08/13 04:34:10 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565642050_2_b55b3251716b56c891490b990af06bb2], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 04:34:10 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 489.508216ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 04:51:45 [I] [asm_amd64.s:514] get:
+2019/08/13 04:51:45 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565643105_1_b30c201c9a5c1bd596d593a26b145145], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 04:51:45 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 230.753994ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 05:02:44 [I] [asm_amd64.s:514] get:
+2019/08/13 05:02:44 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565643764_1_ba466a7d6d75ede812d4473f410c81e5], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 05:02:44 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  226.92861ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 05:57:33 [D] [server.go:2568] |  185.244.25.77|[43m 404 [0m|  63.729655ms| nomatch|[46m POST    [0m /ws/v1/cluster/apps/new-application
+2019/08/13 06:32:17 [I] [asm_amd64.s:514] {"evalMatches":[{"value":177.77777777777777,"metric":"{}","tags":{}}],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥对象存储网关告警（page 200） alert"}
+2019/08/13 06:32:17 [I] [alarm.go:113] get access token ok
+2019/08/13 06:32:17 [I] [alarm.go:113] DA_1H4qBgE39giv4e2xClfeLpFLCybT77V3RVNWl0NNexoZiYQ3JYeDLPNg_VffvfSdhKMQ2EAGMl0NYH_6weZ0YU10d2ibZ5_BWsBv-TOctbaGdxHTGZi0OjRuSo9nGbE8Ws1Vi66k-TgOWyaMq1Cginqu_hobLjjoJ2JZOt3Wk9WwBvuDaOPlgEG60ZYqrSMxhTfcJaieE6FI_pLPqWA
+2019/08/13 06:32:18 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 06:32:18 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 489.555347ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 06:37:17 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"ok","title":"[OK] 石桥对象存储网关告警（page 200） alert"}
+2019/08/13 06:37:17 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 06:37:17 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 271.574046ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 07:54:09 [I] [asm_amd64.s:514] get:
+2019/08/13 07:54:09 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565654049_2_dfb46b171e5c760fcadb84ee64bf4689], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 07:54:09 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 231.432725ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 08:51:20 [I] [asm_amd64.s:514] get:
+2019/08/13 08:51:20 [I] [alarm.go:58] get access token ok
+2019/08/13 08:51:20 [I] [alarm.go:58] -vyQA5Q0VldJAMjGZpmDsBjGPRjU-viAClbuTZhNAEH4DzdoqOxRDyJh59LIwApA97tmlFgWfjLdSuQ6Q2qbEMkkhaOuIaf77jX42BhRlhxFcuUjMhUWpS4xLetehuIQEs1DSSntE4JPdTkvCVxQ2YoasqXBUZJ_DdAEfRDjM5EERVnQr17NX1ueUMZHo-kHFO73eUnxZo9IsYqW82f3Sw
+2019/08/13 08:51:21 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565657481_4_ac774fca1d03a8dc21632e00dac1fe31], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 08:51:21 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  463.86285ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 09:47:00 [I] [asm_amd64.s:514] get:
+2019/08/13 09:47:00 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565660820_7_e73d61b86a86600431ec6023884c46de], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 09:47:00 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 242.830524ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 11:36:23 [I] [asm_amd64.s:514] get:
+2019/08/13 11:36:23 [I] [alarm.go:58] get access token ok
+2019/08/13 11:36:23 [I] [alarm.go:58] DD-Alkw0VSYniDBwe6tdaJnEMhPTZXhHmvCAVCLq_WT0_MgNWxcf8wXa54E6sqkmAXRAcYEytM0h6sDELEj12EqKD5VFAU4lGb_0IPjypfGd_e-sZxpMFYXIlKe321SCBxhmboO9G1GJ8aGiImzeFZNTpJoig9_tk5Ocz335Ks6AbIk4pGMkkNejE_-TTBPUmJ8Ph3ds-OjW_P3gZikAwA
+2019/08/13 11:36:24 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565667384_3_f885b8bd2729fcf2816217e923d7a429], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 11:36:24 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 487.059237ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 13:47:17 [I] [asm_amd64.s:514] get:
+2019/08/13 13:47:17 [I] [alarm.go:58] get access token ok
+2019/08/13 13:47:17 [I] [alarm.go:58] rbU4y9AHqqzmaQaF93y1wUcW29uXYvlWBlyK3xSRGN9P3HZYSxyYSFdbOPLGixAaIfPN7dMUfHieB5IUCiJWtEJRwSFQe-7FOnT4S6dEWD9sdSJQ6o7hiXS3ecvxViDKvjiOVqsVcck_xIrGnGUoyaQ7r94ZzEz3Ab4jXk0QK0fF_dOy53zZ4KEnc3lXrA-wtN6CCERFPcbUSjRzLlCVAg
+2019/08/13 13:47:18 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565675238_6_567b4b2248215d1e2f5fe54d09f36dcb], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 13:47:18 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 477.219795ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 15:03:23 [I] [asm_amd64.s:514] get:
+2019/08/13 15:03:23 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565679803_5_79322ba140baf3fe07909e39fd38a0ed], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 15:03:23 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 219.564443ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 15:33:19 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"cluster_status{alias=\"ceph_exporter_ssd\", instance=\"172.30.11.13:5005\", job=\"ceph_exporter_ssd\"}","tags":{"__name__":"cluster_status","alias":"ceph_exporter_ssd","instance":"172.30.11.13:5005","job":"ceph_exporter_ssd"}}],"ruleId":27,"ruleName":"ssd Cluster Health Check alert萧山生产ssd","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=36\u0026orgId=1","state":"alerting","title":"[Alerting] ssd Cluster Health Check alert萧山生产ssd"}
+2019/08/13 15:33:19 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 15:33:19 [D] [server.go:2568] | 218.205.89.119|[42m 200 [0m|  279.74645ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 16:28:23 [I] [asm_amd64.s:514] get:
+2019/08/13 16:28:23 [I] [alarm.go:58] get access token ok
+2019/08/13 16:28:23 [I] [alarm.go:58] K679s4NvYJ848FLgeyggu9OSihNfjux1D3PCbJquXilLbdg0G2M0MI2eIzjlIpoMtfv4_1E_oZ4OAU8aUg7nisbCNSSyTZE3qzPtTd16Tgef1p4RD1PXgejc-TpQtTOdIM4lI9akC1udAhtozZvyRue-ekZArsoBd0KfylQgDpX9LSJUQZKwPm9C7lAjxqRJsybkaDFYx0c1apx_lj8ETQ
+2019/08/13 16:28:24 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565684904_5_dfc8b13acffa5f24dd4cafaa6d6a157a], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 16:28:24 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 504.753622ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 16:57:41 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"down_num","tags":{"__name__":"cinder_service_down","alias":"openstackhost-exporter","instance":"172.28.11.14:5007","job":"openstackhost-exporter"}}],"ruleId":72,"ruleName":"石桥测试 cinder_service_down alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=24\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥测试 cinder_service_down alert"}
+2019/08/13 16:57:41 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 16:57:41 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 274.883095ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 16:58:03 [I] [asm_amd64.s:514] {"evalMatches":[{"value":2,"metric":"alive_manager_count{alias=\"openstackhost-exporter\", instance=\"172.28.11.14:5007\", job=\"openstackhost-exporter\"}","tags":{"__name__":"alive_manager_count","alias":"openstackhost-exporter","instance":"172.28.11.14:5007","job":"openstackhost-exporter"}}],"message":"管理节点告警！","ruleId":10,"ruleName":"测试云在线管理节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=4\u0026orgId=1","state":"alerting","title":"[Alerting] 测试云在线管理节点 alert"}
+2019/08/13 16:58:03 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 16:58:03 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 286.942491ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 16:58:14 [I] [asm_amd64.s:514] {"evalMatches":[{"value":117,"metric":"alive_host_count{alias=\"openstackhost-exporter\", instance=\"172.28.11.14:5007\", job=\"openstackhost-exporter\"}","tags":{"__name__":"alive_host_count","alias":"openstackhost-exporter","instance":"172.28.11.14:5007","job":"openstackhost-exporter"}}],"ruleId":66,"ruleName":"测试云在线全部节点 alert （除去compute-070）","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=1\u0026orgId=1","state":"alerting","title":"[Alerting] 测试云在线全部节点 alert （除去compute-070）"}
+2019/08/13 16:58:14 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 16:58:14 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 300.583381ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:00:32 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":72,"ruleName":"石桥测试 cinder_service_down alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=24\u0026orgId=1","state":"ok","title":"[OK] 石桥测试 cinder_service_down alert"}
+2019/08/13 17:00:32 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:00:32 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 269.373869ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:02:44 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":66,"ruleName":"测试云在线全部节点 alert （除去compute-070）","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=1\u0026orgId=1","state":"ok","title":"[OK] 测试云在线全部节点 alert （除去compute-070）"}
+2019/08/13 17:02:44 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:02:44 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 255.216454ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:05:06 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":53,"ruleName":"石桥测试 con2_var_lib_docker   usage  alert alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=29\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥测试 con2_var_lib_docker   usage  alert alert"}
+2019/08/13 17:05:06 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":16,"ruleName":"SQL_connect alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=20\u0026orgId=1","state":"alerting","title":"[Alerting] SQL_connect alert"}
+2019/08/13 17:05:06 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:05:06 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 260.025057ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:05:06 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:05:06 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 296.752098ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:06:18 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":35,"ruleName":"hdd1 Cluster Health Check alert 石桥测试","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=50\u0026orgId=1","state":"alerting","title":"[Alerting] hdd1 Cluster Health Check alert 石桥测试"}
+2019/08/13 17:06:19 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:06:19 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 276.328186ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:06:24 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":29,"ruleName":"hdd Cluster Health Check alert石桥测试hdd","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=37\u0026orgId=1","state":"alerting","title":"[Alerting] hdd Cluster Health Check alert石桥测试hdd"}
+2019/08/13 17:06:25 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:06:25 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 281.978941ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:07:02 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"计算节点告警！","ruleId":12,"ruleName":"测试云在线计算节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=6\u0026orgId=1","state":"alerting","title":"[Alerting] 测试云在线计算节点 alert"}
+2019/08/13 17:07:03 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:07:03 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 298.155317ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:07:05 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"Ceph节点告警！","ruleId":14,"ruleName":"测试云在线Ceph节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=8\u0026orgId=1","state":"alerting","title":"[Alerting] 测试云在线Ceph节点 alert"}
+2019/08/13 17:07:06 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:07:06 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 285.708435ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:07:07 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":20,"ruleName":"rabbitMQ_connect alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=22\u0026orgId=1","state":"alerting","title":"[Alerting] rabbitMQ_connect alert"}
+2019/08/13 17:07:08 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:07:08 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 256.601829ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:04 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"计算节点告警！","ruleId":12,"ruleName":"测试云在线计算节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=6\u0026orgId=1","state":"ok","title":"[OK] 测试云在线计算节点 alert"}
+2019/08/13 17:09:04 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:04 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 272.858855ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:05 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":24,"ruleName":"测试云page_status alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=25\u0026orgId=1","state":"ok","title":"[OK] 测试云page_status alert"}
+2019/08/13 17:09:05 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":72,"ruleName":"石桥测试 cinder_service_down alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=24\u0026orgId=1","state":"ok","title":"[OK] 石桥测试 cinder_service_down alert"}
+2019/08/13 17:09:05 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:05 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 250.247511ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:05 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:05 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 257.528258ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:06 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":20,"ruleName":"rabbitMQ_connect alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=22\u0026orgId=1","state":"ok","title":"[OK] rabbitMQ_connect alert"}
+2019/08/13 17:09:06 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":16,"ruleName":"SQL_connect alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=20\u0026orgId=1","state":"ok","title":"[OK] SQL_connect alert"}
+2019/08/13 17:09:06 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:06 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 251.808122ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:06 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:06 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 263.183447ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:07 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"Ceph节点告警！","ruleId":14,"ruleName":"测试云在线Ceph节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=8\u0026orgId=1","state":"ok","title":"[OK] 测试云在线Ceph节点 alert"}
+2019/08/13 17:09:07 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:07 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  270.25123ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:14 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":29,"ruleName":"hdd Cluster Health Check alert石桥测试hdd","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=37\u0026orgId=1","state":"ok","title":"[OK] hdd Cluster Health Check alert石桥测试hdd"}
+2019/08/13 17:09:14 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:14 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 267.871299ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:09:24 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":53,"ruleName":"石桥测试 con2_var_lib_docker   usage  alert alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=29\u0026orgId=1","state":"ok","title":"[OK] 石桥测试 con2_var_lib_docker   usage  alert alert"}
+2019/08/13 17:09:24 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:09:24 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 283.627453ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:13:03 [I] [asm_amd64.s:514] {"evalMatches":[],"message":"管理节点告警！","ruleId":10,"ruleName":"测试云在线管理节点 alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=4\u0026orgId=1","state":"ok","title":"[OK] 测试云在线管理节点 alert"}
+2019/08/13 17:13:03 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:13:03 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 279.965165ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:17:17 [I] [asm_amd64.s:514] {"evalMatches":[{"value":177.77777777777777,"metric":"{}","tags":{}}],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥对象存储网关告警（page 200） alert"}
+2019/08/13 17:17:17 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:17:17 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 274.476416ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:22:17 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":7,"ruleName":"石桥对象存储网关告警（page 200） alert","ruleUrl":"http://localhost:3000/d/eh0tqBXmk/rados-gateway?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=10\u0026orgId=1","state":"ok","title":"[OK] 石桥对象存储网关告警（page 200） alert"}
+2019/08/13 17:22:17 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 17:22:17 [D] [server.go:2568] |101.251.145.154|[42m 200 [0m| 270.480649ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 17:44:30 [D] [server.go:2568] |  185.173.35.41|[43m 404 [0m|    367.729µs| nomatch|[44m GET     [0m /  
+2019/08/13 20:00:09 [I] [asm_amd64.s:514] get:
+2019/08/13 20:00:09 [I] [alarm.go:58] get access token ok
+2019/08/13 20:00:09 [I] [alarm.go:58] tOwkxSc3ZOB5AO3bouW9BPoGLS0u8f8vd8wM8rhg9JBxa14Y_PelTMXjy6XDfH5JT5p8dEvQIQMYUCzqXHTwccIa2pZQTASgeM_g9TN_8JO4G2xKuq-QQL0ORKZo79OMPy1tC3jcgcLmdqLctg8PYJ04lELBNsHXuIvLxTCUiYf490g0V3PMqpzOP5s96p1QrJuSMfD-ZmkufnbK2Wa1pw
+2019/08/13 20:00:10 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565697610_1_c0eace2345d7f05ec0b319c3df84cf45], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 20:00:10 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 464.514382ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 21:50:29 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"cluster_status{alias=\"ceph-exporter-rbd2\", instance=\"172.26.105.14:5009\", job=\"ceph-exporter-rbd2\"}","tags":{"__name__":"cluster_status","alias":"ceph-exporter-rbd2","instance":"172.26.105.14:5009","job":"ceph-exporter-rbd2"}}],"ruleId":16,"ruleName":"石桥生产rbd2 Cluster Health Check alert","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=41\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥生产rbd2 Cluster Health Check alert"}
+2019/08/13 21:50:30 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 21:50:30 [D] [server.go:2568] |  112.13.96.187|[42m 200 [0m| 266.495496ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 21:51:31 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":16,"ruleName":"石桥生产rbd2 Cluster Health Check alert","ruleUrl":"http://localhost:3000/dashboard/db/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=41\u0026orgId=1","state":"ok","title":"[OK] 石桥生产rbd2 Cluster Health Check alert"}
+2019/08/13 21:51:32 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 21:51:32 [D] [server.go:2568] |  112.13.96.187|[42m 200 [0m| 277.543291ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 21:56:42 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"health","tags":{"__name__":"ceph_health_status","alias":"ceph_exporter","instance":"39.135.34.94:9283","job":"ceph_exporter"}}],"ruleId":6,"ruleName":"广西cdn health status alert","ruleUrl":"http://localhost:3000/d/vwcB0Bzmk/ceph-cluster?fullscreen\u0026edit\u0026tab=alert\u0026panelId=45\u0026orgId=1","state":"alerting","title":"[Alerting] 广西cdn health status alert"}
+2019/08/13 21:56:42 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 21:56:42 [D] [server.go:2568] |   39.135.34.94|[42m 200 [0m| 279.436931ms|   match|[43m PUT     [0m /v1/alarm/cdn   r:/v1/alarm/cdn
+2019/08/13 21:59:12 [I] [asm_amd64.s:514] get:
+2019/08/13 21:59:12 [I] [alarm.go:58] get access token ok
+2019/08/13 21:59:12 [I] [alarm.go:58] tOwkxSc3ZOB5AO3bouW9BPoGLS0u8f8vd8wM8rhg9JBxa14Y_PelTMXjy6XDfH5JT5p8dEvQIQMYUCzqXHTwccIa2pZQTASgeM_g9TN_8JO4G2xKuq-QQL0ORKZo79OMPy1tC3jcgcLmdqLctg8PYJ04lELBNsHXuIvLxTCUiYf490g0V3PMqpzOP5s96p1QrJuSMfD-ZmkufnbK2Wa1pw
+2019/08/13 21:59:13 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565704753_3_938d9dbc7624b24937a13d32ebfc96ee], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 21:59:13 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 453.785546ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 23:09:12 [I] [asm_amd64.s:514] get:
+2019/08/13 23:09:12 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565708952_2_6b741f607fbf30ab4ef687e350ff5a78], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 23:09:12 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 234.054344ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 23:17:41 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"down_num","tags":{"__name__":"cinder_service_down","alias":"openstackhost-exporter","instance":"172.28.11.14:5007","job":"openstackhost-exporter"}}],"ruleId":72,"ruleName":"石桥测试 cinder_service_down alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=24\u0026orgId=1","state":"alerting","title":"[Alerting] 石桥测试 cinder_service_down alert"}
+2019/08/13 23:17:41 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 23:17:41 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  271.26004ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 23:22:26 [I] [asm_amd64.s:514] {"evalMatches":[{"value":1,"metric":"cluster_status{alias=\"ceph-exporter-hdd\", instance=\"172.28.11.14:5006\", job=\"ceph-exporter-hdd\"}","tags":{"__name__":"cluster_status","alias":"ceph-exporter-hdd","instance":"172.28.11.14:5006","job":"ceph-exporter-hdd"}}],"ruleId":29,"ruleName":"hdd Cluster Health Check alert石桥测试hdd","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=37\u0026orgId=1","state":"alerting","title":"[Alerting] hdd Cluster Health Check alert石桥测试hdd"}
+2019/08/13 23:22:26 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 23:22:26 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 289.459259ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 23:24:02 [I] [asm_amd64.s:514] get:
+2019/08/13 23:24:02 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565709842_2_aa1a905de01f635dc9c9b1093f7fa73f], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 23:24:02 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 213.073589ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 23:32:53 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":72,"ruleName":"石桥测试 cinder_service_down alert","ruleUrl":"http://localhost:3000/d/FOZIjSGmz/openstackmon?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=24\u0026orgId=1","state":"ok","title":"[OK] 石桥测试 cinder_service_down alert"}
+2019/08/13 23:32:53 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 23:32:53 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m|  360.59128ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
+2019/08/13 23:38:55 [I] [asm_amd64.s:514] get:
+2019/08/13 23:38:55 [I] [asm_amd64.s:514] {"errcode":44004,"errmsg":"empty content, hint: [1565710735_3_88cba455d8788dd8534f05a8e214e280], from ip: 123.206.71.64, more info at https://open.work.weixin.qq.com/devtool/query?e=44004"}
+2019/08/13 23:38:55 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 228.339883ms|   match|[46m POST    [0m /v1/alarm/admin   r:/v1/alarm/admin
+2019/08/13 23:48:26 [I] [asm_amd64.s:514] {"evalMatches":[],"ruleId":29,"ruleName":"hdd Cluster Health Check alert石桥测试hdd","ruleUrl":"http://localhost:3000/d/OIw1PnGmk/ceph-cluster?fullscreen=true\u0026edit=true\u0026tab=alert\u0026panelId=37\u0026orgId=1","state":"ok","title":"[OK] hdd Cluster Health Check alert石桥测试hdd"}
+2019/08/13 23:48:26 [I] [asm_amd64.s:514] {"errcode":0,"errmsg":"ok","invaliduser":""}
+2019/08/13 23:48:26 [D] [server.go:2568] |  112.13.96.247|[42m 200 [0m| 319.379991ms|   match|[43m PUT     [0m /v1/alarm/grafana   r:/v1/alarm/grafana
