@@ -98,17 +98,7 @@ func (u *AlarmController) Put() {
 	logs.Informational(rawdata)
 	var GrafanaReq map[string]interface{}
 	json.Unmarshal([]byte(rawdata), &GrafanaReq)
-	//var EventId string = strconv.Itoa(int(GrafanaReq["ruleId"].(float64)))
-	//var EventInfo string = GrafanaReq["ruleName"].(string)
-	// 2018.02.19 not add confirm funciton
-	//if GrafanaReq["state"] == "alerting" {
-	//	models.CreateEvent(EventId, EventInfo)
-	//} else if GrafanaReq["state"] == "ok" {
-	//	models.ConfirmEvent(EventId, "2")
-	//}
 	var content string = GrafanaReq["title"].(string)
-	//content = content + " <a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=ww9b468fc13c95e473&redirect_uri=https%3A%2F%2Fwonders.ren%2F&response_type=code&scope=snsapi_userinfo&agentid=1000002&state=active#wechat_redirect\">Click here to confirm this event</a>"
-	//content = content + " <a href=\"http://wx.wonders.ren:8088/v1/alarm/event/" + EventId + "\">Click here to confirm this event</a>"
 	if !models.CheckTokenActive() {
 		models.GetToken()
 	}
